@@ -18,6 +18,7 @@ Make sure you have the following installed on your machine before starting:
 ## 🚀 Project Setup & Installation
 
 Follow these steps to create and run the project locally.
+pip install -r requirements.txt
 
 ### 1. Create the Root Project Directory
 Open your terminal and create a main folder to hold both the backend and frontend:
